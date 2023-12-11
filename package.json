@@ -12,9 +12,9 @@
     "typescript": "^5.3.3"
   },
   "scripts": {
-    "start": "craco start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+    "start": "craco start",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
