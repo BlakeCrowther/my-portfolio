@@ -1,4 +1,5 @@
 {
+  "homepage": "http://BlakeCrowther.github.io/",
   "name": "my-portfolio",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,8 @@
   },
   "scripts": {
     "start": "craco start",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "craco build",
     "test": "craco test",
     "eject": "react-scripts eject"
@@ -26,6 +29,7 @@
     "ajv": "^6.12.6",
     "autoprefixer": "^9.8.6",
     "browserslist": "^4.22.2",
+    "gh-pages": "^6.1.0",
     "postcss": "^8.4.32",
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "ts-node": "^9.1.1"
