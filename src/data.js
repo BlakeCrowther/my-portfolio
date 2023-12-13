@@ -13,50 +13,44 @@ export const projects = [
     description:
       "Android/iOS app that provides personalized normative feedback, regarding alcohol consumption on college campuses, in a gamified format.",
     image: "./CampusGandr_gif.gif",
-    link: "https://reactbootcamp.com",
+    link: "https://www.campusgandr.app/",
   },
   {
     title: "Music Genre Classifier",
     subtitle:
-      "Usign music information retrieval (MIR) to train a genre prediction model.",
+      "Using music information retrieval (MIR) to train a genre prediction model.",
     description:
       "This project utilized librosa to extract relevanty audio features to then train a genre classification model constructed using PyTorch with the Free Music Archive dataset.",
-    image: "./project-3.gif",
-    link: "https://reactbootcamp.com",
+    image: "./Librosa_gif.gif",
+    link: "https://github.com/BlakeCrowther/music-genre-classification",
   },
   {
     title: "Mental Health and Emotion in Music",
     subtitle:
-      "Comparing music preference, self-reported mental health rankings, and emotional attribution in music.",
+      "Comparing music preferences, self-reported mental health rankings, and emotional attribution in music.",
     description:
-      "This project investigates how individuals' self-reported music preferences correlate with their mental health indicators, and if emotional trends in the Emotion Labeled Spotify Songs Dataset provide additional insights into these relationships.",
-    image: "./project-4.gif",
-    link: "https://reactbootcamp.com",
+      "This project investigates how individuals' self-reported music preferences correlate with their mental health indicators, and if genre emotional trends provide additional insights into these relationships.",
+    image: "./music_mental_health.gif",
+    link: "https://github.com/BlakeCrowther/music-mental-health-and-emotion",
   },
 ];
 
-// export const testimonials = [
-//   {
-//     quote:
-//       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-//     image: "https://randomuser.me/api/portraits/men/1.jpg",
-//     name: "Jesse Hicks",
-//     company: "Zoozle",
-//   },
-//   {
-//     quote:
-//       "Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quod necessitatibus quidem impedit facilis? Distinctio laboriosam veritatis recusandae minus. Voluptatum accusantium hic laudantium soluta ea sapiente cupiditate officia maiores itaque.",
-//     image: "https://randomuser.me/api/portraits/men/94.jpg",
-//     name: "Ruben Alvarez",
-//     company: "Dooble.io",
-//   },
-// ];
-
 export const skills = [
-  "JavaScript",
-  "React",
+  "AWS",
+  "C++",
+  "CSS",
+  "GCP",
+  "Git",
+  "Go",
+  "HTML",
+  "Java",
+  "Javascript",
   "Next.js",
-  "Node",
-  "GraphQL",
-  "Material UI",
+  "Node.js",
+  "Python",
+  "React",
+  "React Native",
+  "R",
+  "SQL/NoSQL",
+  "Typescript",
 ];

@@ -12,7 +12,7 @@ export default function About() {
           </h1>
           <p className='mb-8 leading-relaxed'>
             Seeking opportunities to apply technical expertise and programming
-            skills to real-world data challenges while I pursue a Master's in
+            skills to real-world data challenges while I pursue my Master's in
             Data Science and Engineering.
           </p>
           <div className='flex justify-center'>

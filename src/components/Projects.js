@@ -13,8 +13,8 @@ export default function Projects() {
           </h1>
           <p className='lg:w-2/3 mx-auto leading-relaxed text-base'>
             Between web apps, mobile apps, artifical intelligence, and data
-            exploration I have a wide array projects to showcase. Feel free to
-            explore them below.
+            exploration I have a wide array of projects to showcase. Feel free
+            to explore them below.
           </p>
         </div>
         <div className='flex flex-wrap -m-4'>
