@@ -7,13 +7,13 @@ export default function About() {
         <div className='lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center'>
           <h1 className='title-font sm:text-4xl text-3xl mb-4 font-medium text-white'>
             Hi, I'm Blake.
-            <br className='lg:inline-block' />I am a versatile software engineer
-            and data science masters student.
+            <br className='lg:inline-block' />A software engineer and a data
+            science master's student.
           </h1>
           <p className='mb-8 leading-relaxed'>
-            Seeking opportunities to apply technical expertise and programming
-            skills to real-world data challenges while I pursue my Master's in
-            Data Science and Engineering.
+            I am seeking opportunities to apply my technical expertise and
+            programming skills to real-world data challenges while pursuing my
+            Master's in Data Science and Engineering.
           </p>
           <div className='flex justify-center'>
             <a

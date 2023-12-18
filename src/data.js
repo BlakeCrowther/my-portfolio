@@ -9,14 +9,14 @@ export const projects = [
   },
   {
     title: "CampusGandr",
-    subtitle: "Mobile app for first-year college students",
+    subtitle: "Mobile App for First-year College Students",
     description:
       "Android/iOS app that provides personalized normative feedback, regarding alcohol consumption on college campuses, in a gamified format.",
     image: "./CampusGandr_gif.gif",
     link: "https://www.campusgandr.app/",
   },
   {
-    title: "Music Genre Classifier",
+    title: "Music Genre Classification",
     subtitle:
       "Using music information retrieval (MIR) to train a genre prediction model.",
     description:

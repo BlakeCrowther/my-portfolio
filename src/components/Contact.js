@@ -72,7 +72,7 @@ export default function Contact() {
           </h2>
           <p className='leading-relaxed mb-5'>
             Please feel free to reach out with any questions you may have for
-            me!
+            me! I would be happy to assist you.
           </p>
           <div className='relative mb-4'>
             <label htmlFor='name' className='leading-7 text-sm text-gray-400'>
