@@ -1,5 +1,23 @@
 export const projects = [
   {
+    title: "Mental Health and Emotion in Music",
+    subtitle:
+      "Comparing music preferences, self-reported mental health rankings, and emotional attribution in music.",
+    description:
+      "This project investigates how individuals' self-reported music preferences correlate with their mental health indicators, and if genre emotional trends provide additional insights into these relationships.",
+    image: "./music_mental_health.gif",
+    link: "https://github.com/BlakeCrowther/music-mental-health-and-emotion",
+  },
+  {
+    title: "Music Genre Classification",
+    subtitle:
+      "Using music information retrieval (MIR) to train a genre prediction model.",
+    description:
+      "This project utilized librosa to extract relevanty audio features to then train a genre classification model constructed using PyTorch with the Free Music Archive dataset.",
+    image: "./Librosa_gif.gif",
+    link: "https://github.com/BlakeCrowther/music-genre-classification",
+  },
+  {
     title: "Jumble",
     subtitle: "Mobile-Responsive Web Application",
     description:
@@ -14,24 +32,6 @@ export const projects = [
       "Android/iOS app that provides personalized normative feedback, regarding alcohol consumption on college campuses, in a gamified format.",
     image: "./CampusGandr_gif.gif",
     link: "https://www.campusgandr.app/",
-  },
-  {
-    title: "Music Genre Classification",
-    subtitle:
-      "Using music information retrieval (MIR) to train a genre prediction model.",
-    description:
-      "This project utilized librosa to extract relevanty audio features to then train a genre classification model constructed using PyTorch with the Free Music Archive dataset.",
-    image: "./Librosa_gif.gif",
-    link: "https://github.com/BlakeCrowther/music-genre-classification",
-  },
-  {
-    title: "Mental Health and Emotion in Music",
-    subtitle:
-      "Comparing music preferences, self-reported mental health rankings, and emotional attribution in music.",
-    description:
-      "This project investigates how individuals' self-reported music preferences correlate with their mental health indicators, and if genre emotional trends provide additional insights into these relationships.",
-    image: "./music_mental_health.gif",
-    link: "https://github.com/BlakeCrowther/music-mental-health-and-emotion",
   },
 ];
 
