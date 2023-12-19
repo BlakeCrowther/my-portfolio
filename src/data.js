@@ -13,7 +13,7 @@ export const projects = [
     subtitle:
       "Using music information retrieval (MIR) to train a genre prediction model.",
     description:
-      "This project utilized librosa to extract relevanty audio features to then train a genre classification model constructed using PyTorch with the Free Music Archive dataset.",
+      "This project utilized librosa to extract relevant audio features to then train a genre classification model constructed using PyTorch with the Free Music Archive dataset.",
     image: "./Librosa_gif.gif",
     link: "https://github.com/BlakeCrowther/music-genre-classification",
   },
